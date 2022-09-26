@@ -5,6 +5,7 @@
 - 📫 来新浪微博搜索“硬盒橘猫59612”，看看我在干些什么。
 - Go to Sina Weibo and search for "硬盒橘猫59612" and follow my daily life. If you can read Chinese...
 - Translated from Google Translate
+- 你必须理智点提问题！以前的教训还不够吗？
 
 <!---
 JunmoreHeavyBox/JunmoreHeavyBox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
