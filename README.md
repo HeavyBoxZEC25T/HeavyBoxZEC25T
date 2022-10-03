@@ -5,11 +5,10 @@
 - 💞️ I wasn’t going to work on any projects until I learned to code. I'm not in a hurry to seek cooperation.
 
 ### 📫 Contact
-Come to Sina Weibo to search for "硬盒橘猫59612" to follow me daily life. If you can read Chinese...
+- Come to Sina Weibo to search for "硬盒橘猫59612" to follow me daily life. If you can read Chinese...
+- 3190418463@qq.com is my email address.(Suggested contact)
+- I don't want to mention the other platforms' accounts...
 
-3190418463@qq.com is my email address.(Suggested contact)
-
-I don't want to mention the other platforms' accounts...
 
 
 <!---
