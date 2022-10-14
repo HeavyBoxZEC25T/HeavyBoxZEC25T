@@ -1,7 +1,7 @@
 ### Idiots call themselves
 - 👋 Hi, I’m @JunmoreHeavyBox
-- 👀 I like trains, but mainly push-pull trains and dual-mode locomotives, then various vehicles and mechanical principles, video games, etc.
-- 🌱 I'm currently a semi-dropout. Currently learning modelling slowly. A texture pack with very little content was once drawn...
+- 👀 I like trains, but mainly push pull trains and multi-mode energy trains, then various vehicles and mechanical principles, video games, etc. (As long as I don't mention liminal space and weirdcore, dreamcore, etc.)
+- 🌱 I'm a semi-dropout right now and I need to learn everything... I'm wasting my time at the moment.
 - 💞️ I wasn’t going to work on any projects until I learned to code. I'm not in a hurry to seek cooperation.
 
 ### 📫 Contact
