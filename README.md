@@ -1,13 +1,13 @@
-###白痴自称
--👋 我是艺盒JMore@JunmoreHeavyBox，这是一个分子。
--🖨️ 我的兴趣太多了，有点混乱...
--⛏️ 我正在努力挖掘我的剩余价值，让我们看看我能做到。
--✋🏼 我不急于合作，也不想合作。
+### Idiots call themselves
+- 👋 I’m 艺盒JMore @JunmoreHeavyBox, It's a molecule.
+- 🖨️ My interests are a little too much and confusing...
+- ⛏️ I am working hard to mine my surplus value, Let's see I can do.
+- ✋🏼 I am not eager to cooperate, nor do I want to cooperate.
 
-###📫 联系
--来新浪微博搜索“[硬盒橘猫59612](http://weibo.com/u/7608228416/)“跟随着我的日常生活。如果你能看懂中文...”
-  -在这里，我将发布一些建模例程和openBVE例程和琐碎的八卦...
--3190418463@qq.com是我的电子邮件地址。(不想更改为普通电子邮件...)
--我不想提及其他平台的账户...
+### 📫 Contact
+- Come to Sina Weibo to search for "[硬盒橘猫59612](http://weibo.com/u/7608228416/)" to follow me daily life. If you can read Chinese...
+  - Here I'll post some modeling routines and openBVE routines and trivial gossip...
+- 3190418463@qq.com is my email address. (Don't want to change to a normal email...)
+- I don't want to mention the other platforms' accounts...
 
-如果你联系不上我你就当我死了。
+If you can't contact me, you can assume I'm dead.
