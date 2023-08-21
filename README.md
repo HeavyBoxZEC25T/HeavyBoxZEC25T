@@ -1,20 +1,13 @@
-### Idiots call themselves
-- 👋 Hi, I’m @JunmoreHeavyBox
-- 👀 I like trains, mechanical modifications and sandbox and physics simulation games, with a slight interest in urban legends and conspiracy theories.
-- 🌱 I'm a semi-dropout right now and I need to learn everything... I'm wasting my time at the moment.
-- 💞️ I wasn’t going to work on any projects until I learned to code. I'm not in a hurry to seek cooperation.
+###白痴自称
+-👋 我是艺盒JMore@JunmoreHeavyBox，这是一个分子。
+-🖨️ 我的兴趣太多了，有点混乱...
+-⛏️ 我正在努力挖掘我的剩余价值，让我们看看我能做到。
+-✋🏼 我不急于合作，也不想合作。
 
-### 📫 Contact
-- Come to Sina Weibo to search for "[硬盒橘猫59612](http://weibo.com/u/7608228416/)" to follow me daily life. If you can read Chinese...
-  - Here I'll post some modeling routines and openBVE routines and trivial gossip...
-- 3190418463@qq.com is my email address. (Don't want to change to a normal email...)
-- I don't want to mention the other platforms' accounts...
+###📫 联系
+-来新浪微博搜索“[硬盒橘猫59612](http://weibo.com/u/7608228416/)“跟随着我的日常生活。如果你能看懂中文...”
+  -在这里，我将发布一些建模例程和openBVE例程和琐碎的八卦...
+-3190418463@qq.com是我的电子邮件地址。(不想更改为普通电子邮件...)
+-我不想提及其他平台的账户...
 
-If the above contact information is invalid, you can consider me dead.
-
-
-
-<!---
-JunmoreHeavyBox/JunmoreHeavyBox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+如果你联系不上我你就当我死了。
