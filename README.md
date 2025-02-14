@@ -1,5 +1,5 @@
 ### Idiots call themselves
-- 👋 I’m 艺盒JMore @JunmoreHeavyBox, It's a molecule.
+- 👋 I’m 艺盒JMore @JunmoreHeavyBox, Is a molecule.
 - 🖨️ My interests are a little too much and confusing...
 - ⛏️ I am working hard to mine my surplus value, Let's see I can do.
 - ✋🏼 I am not eager to cooperate, nor do I want to cooperate.
@@ -7,7 +7,10 @@
 ### 📫 Contact
 - Come to Sina Weibo to search for "[艺盒JMor-59612](http://weibo.com/u/7608228416/)" to follow me daily life. If you can read Chinese...
   - Here I'll post some modeling routines and openBVE routines and trivial gossip...
-- 3190418463@qq.com is my email address. (Don't want to change to a normal email...)
+- my email address.
+  - 3190418463@qq.com I will prioritize checking this.
+  - hbjmor@outlook.com
+
 - I don't want to mention the other platforms' accounts...
 
-If you can't contact me, you can assume I'm dead.
+If you can't contact me, it means I might be sleeping or something...
